@@ -1,4 +1,5 @@
-# Implementation of K Means Clustering for Customer Segmentation
+# EX 8 Implementation of K Means Clustering for Customer Segmentation
+## DATE:
 
 ## AIM:
 To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
