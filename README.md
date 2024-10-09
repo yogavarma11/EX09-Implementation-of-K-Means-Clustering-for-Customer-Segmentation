@@ -2,7 +2,7 @@
 ## DATE:
 
 ## AIM:
-To write a program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+To write a program to implement the K Means Clustering for Customer Segmentation.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -17,7 +17,7 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Program:
 ```
 /*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
+Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: 
 RegisterNumber:  
 */
@@ -28,4 +28,4 @@ RegisterNumber:
 
 
 ## Result:
-Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
+Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
